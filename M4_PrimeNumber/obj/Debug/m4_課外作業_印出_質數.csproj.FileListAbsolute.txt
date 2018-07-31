@@ -1,0 +1,14 @@
+D:\Shih\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\bin\Debug\m4_課外作業_印出_質數.exe.config
+D:\Shih\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\bin\Debug\m4_課外作業_印出_質數.exe
+D:\Shih\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\bin\Debug\m4_課外作業_印出_質數.pdb
+D:\Shih\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.csprojAssemblyReference.cache
+D:\Shih\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.csproj.CoreCompileInputs.cache
+D:\Shih\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.exe
+D:\Shih\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.pdb
+C:\Users\Tien_Shih\Desktop\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\bin\Debug\m4_課外作業_印出_質數.exe.config
+C:\Users\Tien_Shih\Desktop\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\bin\Debug\m4_課外作業_印出_質數.exe
+C:\Users\Tien_Shih\Desktop\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\bin\Debug\m4_課外作業_印出_質數.pdb
+C:\Users\Tien_Shih\Desktop\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.csprojAssemblyReference.cache
+C:\Users\Tien_Shih\Desktop\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.csproj.CoreCompileInputs.cache
+C:\Users\Tien_Shih\Desktop\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.exe
+C:\Users\Tien_Shih\Desktop\Csharp\上課資料\M4\m4_10_課外作業_5_印出_質數\obj\Debug\m4_課外作業_印出_質數.pdb

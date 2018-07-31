@@ -1,0 +1,14 @@
+C:\Users\III\Documents\Visual Studio 2017\Projects\M4\M4\obj\Debug\M4.csprojAssemblyReference.cache
+C:\Users\III\Documents\Visual Studio 2017\Projects\M4\M4\obj\Debug\M4.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\Visual Studio 2017\Projects\M4\M4\bin\Debug\M4.exe.config
+C:\Users\III\Documents\Visual Studio 2017\Projects\M4\M4\bin\Debug\M4.exe
+C:\Users\III\Documents\Visual Studio 2017\Projects\M4\M4\bin\Debug\M4.pdb
+C:\Users\III\Documents\Visual Studio 2017\Projects\M4\M4\obj\Debug\M4.exe
+C:\Users\III\Documents\Visual Studio 2017\Projects\M4\M4\obj\Debug\M4.pdb
+D:\Shih\Csharp\上課資料\M4\m4_8_課外作業_3_印出來_類似的_耶誕樹_要5層\M4\M4\bin\Debug\M4.exe.config
+D:\Shih\Csharp\上課資料\M4\m4_8_課外作業_3_印出來_類似的_耶誕樹_要5層\M4\M4\bin\Debug\M4.exe
+D:\Shih\Csharp\上課資料\M4\m4_8_課外作業_3_印出來_類似的_耶誕樹_要5層\M4\M4\bin\Debug\M4.pdb
+D:\Shih\Csharp\上課資料\M4\m4_8_課外作業_3_印出來_類似的_耶誕樹_要5層\M4\M4\obj\Debug\M4.csprojAssemblyReference.cache
+D:\Shih\Csharp\上課資料\M4\m4_8_課外作業_3_印出來_類似的_耶誕樹_要5層\M4\M4\obj\Debug\M4.csproj.CoreCompileInputs.cache
+D:\Shih\Csharp\上課資料\M4\m4_8_課外作業_3_印出來_類似的_耶誕樹_要5層\M4\M4\obj\Debug\M4.exe
+D:\Shih\Csharp\上課資料\M4\m4_8_課外作業_3_印出來_類似的_耶誕樹_要5層\M4\M4\obj\Debug\M4.pdb
