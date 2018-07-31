@@ -1,0 +1,7 @@
+D:\Shih\Csharp\上課資料\M4\m4_7_課外作業_2_印出_九九乘法表\m4_課外作業_印出_九九乘法表\bin\Debug\m4_課外作業_印出_九九乘法表.exe.config
+D:\Shih\Csharp\上課資料\M4\m4_7_課外作業_2_印出_九九乘法表\m4_課外作業_印出_九九乘法表\bin\Debug\m4_課外作業_印出_九九乘法表.exe
+D:\Shih\Csharp\上課資料\M4\m4_7_課外作業_2_印出_九九乘法表\m4_課外作業_印出_九九乘法表\bin\Debug\m4_課外作業_印出_九九乘法表.pdb
+D:\Shih\Csharp\上課資料\M4\m4_7_課外作業_2_印出_九九乘法表\m4_課外作業_印出_九九乘法表\obj\Debug\m4_課外作業_印出_九九乘法表.csprojAssemblyReference.cache
+D:\Shih\Csharp\上課資料\M4\m4_7_課外作業_2_印出_九九乘法表\m4_課外作業_印出_九九乘法表\obj\Debug\m4_課外作業_印出_九九乘法表.csproj.CoreCompileInputs.cache
+D:\Shih\Csharp\上課資料\M4\m4_7_課外作業_2_印出_九九乘法表\m4_課外作業_印出_九九乘法表\obj\Debug\m4_課外作業_印出_九九乘法表.exe
+D:\Shih\Csharp\上課資料\M4\m4_7_課外作業_2_印出_九九乘法表\m4_課外作業_印出_九九乘法表\obj\Debug\m4_課外作業_印出_九九乘法表.pdb
