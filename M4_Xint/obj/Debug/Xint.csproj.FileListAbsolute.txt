@@ -1,0 +1,14 @@
+C:\Users\Tien_Shih\Desktop\Csharp\Xint\Xint\bin\Debug\Xint.exe.config
+C:\Users\Tien_Shih\Desktop\Csharp\Xint\Xint\bin\Debug\Xint.exe
+C:\Users\Tien_Shih\Desktop\Csharp\Xint\Xint\bin\Debug\Xint.pdb
+C:\Users\Tien_Shih\Desktop\Csharp\Xint\Xint\obj\Debug\Xint.csprojAssemblyReference.cache
+C:\Users\Tien_Shih\Desktop\Csharp\Xint\Xint\obj\Debug\Xint.csproj.CoreCompileInputs.cache
+C:\Users\Tien_Shih\Desktop\Csharp\Xint\Xint\obj\Debug\Xint.exe
+C:\Users\Tien_Shih\Desktop\Csharp\Xint\Xint\obj\Debug\Xint.pdb
+D:\Shih\Csharp\上課資料\M4\m4_9_課外作業_4_要使用者猜出來任意產生的一個整數\Xint\Xint\bin\Debug\Xint.exe.config
+D:\Shih\Csharp\上課資料\M4\m4_9_課外作業_4_要使用者猜出來任意產生的一個整數\Xint\Xint\bin\Debug\Xint.exe
+D:\Shih\Csharp\上課資料\M4\m4_9_課外作業_4_要使用者猜出來任意產生的一個整數\Xint\Xint\bin\Debug\Xint.pdb
+D:\Shih\Csharp\上課資料\M4\m4_9_課外作業_4_要使用者猜出來任意產生的一個整數\Xint\Xint\obj\Debug\Xint.csprojAssemblyReference.cache
+D:\Shih\Csharp\上課資料\M4\m4_9_課外作業_4_要使用者猜出來任意產生的一個整數\Xint\Xint\obj\Debug\Xint.csproj.CoreCompileInputs.cache
+D:\Shih\Csharp\上課資料\M4\m4_9_課外作業_4_要使用者猜出來任意產生的一個整數\Xint\Xint\obj\Debug\Xint.exe
+D:\Shih\Csharp\上課資料\M4\m4_9_課外作業_4_要使用者猜出來任意產生的一個整數\Xint\Xint\obj\Debug\Xint.pdb
